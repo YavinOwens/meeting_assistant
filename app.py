@@ -5,7 +5,6 @@ from langchain.llms import OpenAI
 from docx import Document
 from docx.shared import Pt
 
-from keys import my_keys # import your api keys here 
 
 st.set_page_config(layout="wide")
 
